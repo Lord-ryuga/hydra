@@ -1,0 +1,25 @@
+{
+  "name": "hydra",
+  "version": "1.0.0",
+  "description": "\"The package.jason file redumption\"",
+  "main": "index.html",
+
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lord-ryuga/hydra.git"
+  },
+  "author": "P. SAI KARTHEEK REDDY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lord-ryuga/hydra/issues"
+  },
+  "homepage": "https://github.com/Lord-ryuga/hydra#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
